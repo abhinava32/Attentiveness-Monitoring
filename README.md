@@ -55,10 +55,7 @@ For detections using saved video
 python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat --video video.mp4
 ```
 
-## **Results:**
-The results are awesome. We can see very fast and pretty accurate blink detections.
 
-![Example output](media/output.gif)
 
 
 
